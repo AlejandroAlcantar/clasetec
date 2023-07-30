@@ -1,2 +1,2 @@
 # clasetec
-tareas de la clase del tec de monterrey
+Actividad sesión 3
